@@ -1,0 +1,23 @@
+# 🔐 Multi-Algorithm Text Encryption Tool (Python)
+
+This Python tool allows you to encrypt and decrypt text using three encryption algorithms:
+
+- **AES** (Advanced Encryption Standard)
+- **DES** (Data Encryption Standard)
+- **RSA** (Rivest-Shamir-Adleman)
+
+## 🛠️ Features
+
+- **AES Encryption**: Uses CBC mode with random keys.
+- **DES Encryption**: Uses ECB mode with random keys.
+- **RSA Encryption**: Public/Private key encryption.
+
+---
+
+## 🚀 Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/encryption-tool.git
+cd encryption-tool
